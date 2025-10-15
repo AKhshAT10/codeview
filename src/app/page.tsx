@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { SignedIn, SignedOut, SignInButton, UserButton } from "@clerk/nextjs";
+import {SignInButton} from "@clerk/nextjs";
 
 
 export default function Home() {
